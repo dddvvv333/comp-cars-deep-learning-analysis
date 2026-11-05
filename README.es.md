@@ -4,7 +4,7 @@
 
 **Autor:** Diego Andrés Vega Acuña  
 **Profesor guía:** Carlos Navarro Clavería  
-**Enlaces:** [Memoria (PDF)](https://drive.google.com/file/d/1vWpu36wMhaFOe7DIaxsMcTYh8jedxFZU/view) | [Resultados completos (Google Drive)](https://drive.google.com/drive/folders/1V83e9XZ7O_Hcy8RAhOQ6QsEIfco-g_Xv)
+**Enlaces:** [Memoria (PDF)](https://drive.google.com/file/d/1vWpu36wMhaFOe7DIaxsMcTYh8jedxFZU/view) | [Resultados completos (Google Drive)](https://drive.google.com/drive/folders/1vyW0RBDckrKWssJSF6BOcy0NadqpxOMF?usp=sharing)
 
 Repositorio de investigación de la memoria para optar al título de Ingeniero Civil Eléctrico (Universidad de Chile, 2026), enfocado en la identificación no supervisada de modelos de vehículos mediante representaciones profundas (*embeddings*) y técnicas de agrupamiento (*clustering*).
 
