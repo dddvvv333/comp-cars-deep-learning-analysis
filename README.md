@@ -4,7 +4,7 @@
 
 **Author:** Diego Andrés Vega Acuña  
 **Advisor:** Carlos Navarro Clavería  
-**Links:** [Thesis (PDF)](https://drive.google.com/file/d/1vWpu36wMhaFOe7DIaxsMcTYh8jedxFZU/view) | [Full results (Google Drive)](https://drive.google.com/drive/folders/1V83e9XZ7O_Hcy8RAhOQ6QsEIfco-g_Xv)
+**Links:** [Thesis (PDF)](https://drive.google.com/file/d/1vWpu36wMhaFOe7DIaxsMcTYh8jedxFZU/view) | [Full results (Google Drive)](https://drive.google.com/drive/folders/1vyW0RBDckrKWssJSF6BOcy0NadqpxOMF?usp=sharing)
 
 Research repository for the undergraduate thesis submitted for the degree of Electrical Engineer (Ingeniero Civil Eléctrico, Universidad de Chile, 2026), focused on the unsupervised identification of vehicle models using deep representations (*embeddings*) and clustering techniques.
 
